@@ -1,3 +1,27 @@
 안녕하세요
 경기게임마이스터고
 학생 여러분!
+
+git init : 해당 폴더를 git에서 관리하는 폴더로 만들어준다.
+
+git status : 현재 소스코드 관리상태를 알려준다.
+
+git add gittest.txt(파일 이름) 
+
+git commit -m : "(메세지)"
+
+git config --global user.name "(사용자 깃 허브 이름)"
+
+git config --global user.email "(사용자 이메일)"
+
+git log : 커밋 기록 보기
+
+git checkout : 브랜치 전환
+
+git remote add (이름) (원격으로 할 깃허브 주소 복사한거) : 리모트 저장소 추가
+
+git remote -v : 리모트 저장소 확인
+
+git push (이름) master : 깃허브에 올리고
+
+git pull (이름) master : 깃허브에 올린거 떙겨오고
