@@ -25,3 +25,7 @@ git remote -v : 리모트 저장소 확인
 git push (이름) master : 깃허브에 올리고
 
 git pull (이름) master : 깃허브에 올린거 떙겨오고
+.
+.
+.
+끝
